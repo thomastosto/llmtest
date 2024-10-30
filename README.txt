@@ -46,3 +46,7 @@ deepseek-coder-v2:236b          c78d80129305    132 GB  About an hour ago# ici t
 mistral:latest                  f974a74358d6    4.1 GB  5 days ago       
 gemma:2b                        b50d6c999e59    1.7 GB  6 days ago  #pour gemma est il possible de mettre l'api
 #comprendre comment utiliser une machine en remotelab la mettre en locale et partager le chat
+#--------------------------------------------
+pour la lecture rapide https://github.com/Axym-Labs/LetoReader
+commandes docker docker pull davidewiest/reader:latest
+docker run -p 5001:8080 davidewiest/reader:latest
